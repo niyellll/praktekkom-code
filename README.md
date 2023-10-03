@@ -1,3 +1,4 @@
-# Intro-C-Part2
+# Prak Tekkom Code
 
-Code Material For Introduction to C Programming part 2
+Code Material For Praktikum Teknologi Komputer <br/>
+Will be updated regularly according to the material.
